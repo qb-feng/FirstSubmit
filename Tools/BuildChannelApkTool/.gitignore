@@ -1,0 +1,4 @@
+outputDir/*
+package/*
+!outputDir/.gitkeep
+!package/.gitkeep

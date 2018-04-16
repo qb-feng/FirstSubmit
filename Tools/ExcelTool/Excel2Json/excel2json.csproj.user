@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-e D:\_Work\2_Git\BolyEnglishToB\AssetsAssets\Config\书本配置\课程关卡\ -j D:\_Work\2_Git\BolyEnglishToB\AssetsAssets\StreamingAssets\Config\Book\ -h 1</StartArguments>
+  </PropertyGroup>
+</Project>
