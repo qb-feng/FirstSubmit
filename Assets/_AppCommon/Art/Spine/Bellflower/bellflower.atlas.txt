@@ -1,0 +1,125 @@
+
+bellflower.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower1
+  rotate: false
+  xy: 2, 7
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: true
+  xy: 50, 8
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: true
+  xy: 207, 25
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 76, 119
+  size: 136, 29
+  orig: 136, 29
+  offset: 0, 0
+  index: -1
+h leaf1
+  rotate: false
+  xy: 76, 150
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+h leaf2
+  rotate: true
+  xy: 156, 203
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+h leaf3
+  rotate: true
+  xy: 156, 150
+  size: 51, 98
+  orig: 51, 98
+  offset: 0, 0
+  index: -1
+h water
+  rotate: false
+  xy: 134, 37
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+jing
+  rotate: false
+  xy: 2, 129
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+jing lll
+  rotate: false
+  xy: 214, 134
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+leaf ll
+  rotate: false
+  xy: 84, 9
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 148, 67
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 72, 56
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 2, 51
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+music1
+  rotate: true
+  xy: 84, 26
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+music2
+  rotate: true
+  xy: 148, 16
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 134, 27
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1

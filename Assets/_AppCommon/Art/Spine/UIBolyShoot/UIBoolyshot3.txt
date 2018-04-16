@@ -1,0 +1,111 @@
+
+射箭d.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bazi
+  rotate: false
+  xy: 2, 65
+  size: 194, 445
+  orig: 194, 445
+  offset: 0, 0
+  index: -1
+gong
+  rotate: false
+  xy: 198, 164
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 387, 368
+  size: 142, 28
+  orig: 142, 28
+  offset: 0, 0
+  index: -1
+jiantou
+  rotate: false
+  xy: 387, 350
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 417, 429
+  size: 21, 81
+  orig: 21, 81
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 417, 429
+  size: 21, 81
+  orig: 21, 81
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 198, 304
+  size: 187, 206
+  orig: 187, 206
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 198, 82
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+shou22
+  rotate: false
+  xy: 74, 28
+  size: 72, 11
+  orig: 72, 11
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 262, 249
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 262, 197
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 2, 2
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 318, 258
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+yingyin
+  rotate: false
+  xy: 74, 41
+  size: 114, 22
+  orig: 114, 22
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 198, 69
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1

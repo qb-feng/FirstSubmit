@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FLY Y
+  rotate: false
+  xy: 2, 140
+  size: 323, 136
+  orig: 323, 136
+  offset: 0, 0
+  index: -1
+FLY Z
+  rotate: false
+  xy: 2, 2
+  size: 323, 136
+  orig: 323, 136
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 2, 278
+  size: 312, 196
+  orig: 312, 196
+  offset: 0, 0
+  index: -1

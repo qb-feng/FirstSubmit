@@ -1,0 +1,104 @@
+
+Octopus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: false
+  xy: 2, 413
+  size: 422, 97
+  orig: 422, 97
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 299, 137
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 2, 33
+  size: 158, 88
+  orig: 158, 88
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 426, 384
+  size: 126, 82
+  orig: 126, 82
+  offset: 0, 0
+  index: -1
+w1
+  rotate: true
+  xy: 395, 114
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 168, 79
+  size: 118, 46
+  orig: 118, 46
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 82, 3
+  size: 77, 28
+  orig: 77, 28
+  offset: 0, 0
+  index: -1
+w4
+  rotate: true
+  xy: 457, 116
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+w5
+  rotate: false
+  xy: 2, 2
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 234, 290
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 2, 287
+  size: 230, 124
+  orig: 230, 124
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 398, 244
+  size: 95, 138
+  orig: 95, 138
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 168, 127
+  size: 129, 158
+  orig: 129, 158
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 2, 123
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1

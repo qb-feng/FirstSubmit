@@ -1,0 +1,41 @@
+
+HappySong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DOC
+  rotate: false
+  xy: 2, 478
+  size: 483, 511
+  orig: 483, 511
+  offset: 0, 0
+  index: -1
+GL
+  rotate: false
+  xy: 487, 558
+  size: 384, 431
+  orig: 384, 431
+  offset: 0, 0
+  index: -1
+MG
+  rotate: true
+  xy: 725, 276
+  size: 280, 264
+  orig: 280, 264
+  offset: 0, 0
+  index: -1
+RED
+  rotate: false
+  xy: 2, 20
+  size: 471, 456
+  orig: 471, 456
+  offset: 0, 0
+  index: -1
+XRZ
+  rotate: false
+  xy: 475, 17
+  size: 248, 459
+  orig: 248, 459
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+ShoopingCart.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 55
+  size: 177, 265
+  orig: 177, 265
+  offset: 0, 0
+  index: -1
+butterfly
+  rotate: false
+  xy: 446, 432
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 335, 248
+  size: 135, 101
+  orig: 135, 101
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 2, 385
+  size: 442, 119
+  orig: 442, 119
+  offset: 0, 0
+  index: -1
+car b
+  rotate: false
+  xy: 2, 15
+  size: 352, 38
+  orig: 352, 38
+  offset: 0, 0
+  index: -1
+eye black y
+  rotate: true
+  xy: 418, 84
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+eye black z
+  rotate: false
+  xy: 446, 380
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+eye light z
+  rotate: false
+  xy: 354, 68
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+eye linght y
+  rotate: false
+  xy: 379, 69
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+handY
+  rotate: false
+  xy: 2, 234
+  size: 331, 149
+  orig: 331, 149
+  offset: 0, 0
+  index: -1
+handZ
+  rotate: true
+  xy: 354, 91
+  size: 155, 62
+  orig: 155, 62
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: true
+  xy: 418, 133
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+leaves
+  rotate: true
+  xy: 269, 72
+  size: 160, 83
+  orig: 160, 83
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 2
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1

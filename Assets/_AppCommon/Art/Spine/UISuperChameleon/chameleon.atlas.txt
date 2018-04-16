@@ -1,0 +1,111 @@
+
+chameleon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 212
+  size: 295, 298
+  orig: 295, 298
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 254, 122
+  size: 61, 79
+  orig: 61, 79
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 389, 166
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 2, 2
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: true
+  xy: 477, 445
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+eye5
+  rotate: false
+  xy: 317, 157
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+han1
+  rotate: true
+  xy: 254, 106
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+han2
+  rotate: false
+  xy: 241, 72
+  size: 7, 31
+  orig: 7, 31
+  offset: 0, 0
+  index: -1
+han3
+  rotate: true
+  xy: 2, 15
+  size: 7, 53
+  orig: 7, 53
+  offset: 0, 0
+  index: -1
+han4
+  rotate: true
+  xy: 254, 203
+  size: 7, 42
+  orig: 7, 42
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 24
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 131, 105
+  size: 121, 105
+  orig: 121, 105
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 135, 25
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 299, 203
+  size: 307, 176
+  orig: 307, 176
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 105
+  size: 127, 105
+  orig: 127, 105
+  offset: 0, 0
+  index: -1

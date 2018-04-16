@@ -1,0 +1,20 @@
+
+Fish.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小鱼
+  rotate: false
+  xy: 2, 2
+  size: 217, 162
+  orig: 217, 162
+  offset: 0, 0
+  index: -1
+鲨鱼
+  rotate: false
+  xy: 2, 166
+  size: 501, 277
+  orig: 501, 277
+  offset: 0, 0
+  index: -1
